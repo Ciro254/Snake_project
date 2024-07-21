@@ -28,7 +28,7 @@
 
         let snake = [{ x: 10, y: 10 }];
         let direction = { x: 0, y: 0 };
-        let food = { x: 15, y: 15 };
+        let food = { x: 10, y: 10 };
         let score = 0;
 
         function gameLoop() {
